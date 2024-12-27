@@ -1,0 +1,9 @@
+git init
+git remote add origin https://github.com/engineerchirag/scaler-fs-march.git
+
+git remote add origin https://github.com/dpareta/sc-fs.git
+
+git branch -M master
+git add .
+git commit -m 'Class 1'
+git push -u origin master
